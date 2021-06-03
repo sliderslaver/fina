@@ -1,0 +1,24 @@
+.bg-mycolor{
+background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
+}
+#socials{
+    font-size: x-large;
+    pointer-events: none;
+    font-family: fantasy;
+    
+}
+#social{
+    width: 50px;
+}
+#fb{
+    width: 100%;
+    height: 100%;
+}
+#inst{
+    width: 12%;
+    height: 2%;
+}
+#fo1{
+    pointer-events: none;
+}

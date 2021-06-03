@@ -1,0 +1,20 @@
+.sli{
+    width: 1000px;
+    height: 600px;
+    box-sizing: content-box;
+    border: solid transparent;
+}
+.ima{
+    float: left;
+    margin: 5% 0 0 5%;
+    width: 500px;
+    height: 500px;
+    padding-right: 15px;
+}
+.text1{
+    color: lightblue;
+    font-family: 'Mukta', sans-serif;
+    margin-top: 15%;
+
+}
+

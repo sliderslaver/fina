@@ -1,0 +1,12 @@
+.caro{
+    display: flex;
+}
+.d-block{
+ height: 550px;
+ animation: fadein 4s;
+}
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+    
+}
